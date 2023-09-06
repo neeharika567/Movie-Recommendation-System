@@ -24,6 +24,10 @@ In cosine similarity, data objects in a dataset are treated as a vector. To conv
 ## Input and Output
 I ask the user for a movie name, they want to have recommendations of.
 
-![pic](F:/movie recommendation system/Capture)
+![pic](https://github.com/neeharika567/Movie-Recommendation-System/blob/main/ask_name.PNG)
+
+![pic]()
+![pic]()
+![pic]()
 
  
